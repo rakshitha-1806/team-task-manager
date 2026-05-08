@@ -1,6 +1,7 @@
 # Team Task Manager ✅
 
-🚀 **Live Demo:** [https://team-task-manager-steel-tau.vercel.app/](https://team-task-manager-steel-tau.vercel.app/)
+🚀 **Live Demo (Frontend):** [https://team-task-manager-steel-tau.vercel.app/](https://team-task-manager-steel-tau.vercel.app/)
+⚙️ **Live API (Backend):** [https://team-task-manager-production-4218.up.railway.app](https://team-task-manager-production-4218.up.railway.app)
 
 A full-stack web application designed to help teams efficiently manage, assign, and track the progress of their projects and tasks.
 
@@ -21,7 +22,7 @@ A full-stack web application designed to help teams efficiently manage, assign, 
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/team-task-manager.git
+git clone https://github.com/rakshitha-1806/team-task-manager.git
 cd team-task-manager
 ```
 
